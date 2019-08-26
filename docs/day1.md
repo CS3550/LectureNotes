@@ -1,3 +1,11 @@
 # Day 1
 
-Some content
+## Day 1 Outline
+
+* Overview
+* Application Layer
+* Start Coding
+
+## Day 1 Resources
+
+* [Communication Networks Overview](https://com.ricks.io/Day1/)
