@@ -7,6 +7,6 @@ This is the homepage for  CSCI 3550, Communication Networks, a computer science 
 
 ## Class Resources
 * [Canvas](https://unomaha.instructure.com/) For the calendar, assignments, attendance, and grades
-* [Github](https://github.com/c3550) For code and the syllabus
+* [Github](https://github.com/cs3550) For code and the syllabus
 * [This website](https://net.ricks.io) For lecture notes
 
