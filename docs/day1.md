@@ -25,6 +25,7 @@
 #### Dictionary
 
 *![Example Dictionary](./images/DictionaryExample.jpg)
+
 (Dictionary image from https://www.britannica.com/topic/dictionary/Kinds-of-dictionaries, retrieved 8/27/2019. Used due to the age of the dictionary and the threshold of originality. See https://en.wikipedia.org/wiki/Wikipedia:Image_use_policy#Public_domain)
 
 #### Java Exmaple
