@@ -40,3 +40,7 @@
 * AD
 
 * HTML
+
+### In Class Notes
+
+![Lecture Notes](./images/LectureNotes.png)
