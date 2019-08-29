@@ -18,8 +18,12 @@
 
 * Day 1
 
-[Github Website](https://gitub.com/cs3550/Course)
+[Github Website](https://github.com/cs3550/Course)
 
-[Threads and PRocesses]()
+[Threads and Processes](https://com.ricks.io/day2/)
 
 [Threads Starter Code](https://github.com/CS3550/Threads)
+
+[Socket Starter Code](https://github.com/CS3550/Sockets)
+
+![Lecture Notes](./images/LectureNotes2.png)
