@@ -9,7 +9,8 @@ module.exports={
     sidebar: [
       '/',
       '/day1',
-      '/day2'
+      '/day2',
+      '/day3'
       
       
     ],
