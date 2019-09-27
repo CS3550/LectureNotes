@@ -1,6 +1,6 @@
 # Communication Networks
 
-[Newer Website](https://two.ricks.io/Universal)
+[Newer Website](https://ricks.io/landing.html)
 
 ![Communication Networks Splash Image](./images/CommNetworks.png)
 
